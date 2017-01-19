@@ -74,7 +74,7 @@
 #     imglist = re.findall(imgre,html)
 #     x= 0
 #     for imgurl in imglist:
-#         urllib.request.urlretrieve(imgurl,'photos/%s.jpg' % x)
+#         urllib.request.urlretrieve(imgurl,'_photos/%s.jpg' % x)
 #         x+=1
 #
 # html = getHtml("http://tieba.baidu.com/p/4253192113")
@@ -461,7 +461,7 @@
 #coding = utf-8
 # import PIL.Image
 #
-# im = PIL.Image.open('photos/0.jpg')
+# im = PIL.Image.open('_photos/0.jpg')
 # print(im.format, im.size, im.mode)
 #
 # im.thumbnail((200, 100))
