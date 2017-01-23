@@ -21,7 +21,7 @@ table.write(0,3,('知乎live关注人数').decode('utf8'))
 table.write(0,4,('大V主页').decode('utf8'))
 
 
-for j in range(0,170,10):
+for j in range(0,500,10):
     url = "https://api.zhihu.com/lives/ongoing?purchasable=1&limit=10&offset=%d" % j
     headers = {
                 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
