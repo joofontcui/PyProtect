@@ -4,7 +4,7 @@
 # @Time    : 2017/1/22 20:08
 # @Author  : Cui jun
 # @Site    : 
-# @File    : test_two.py
+# @File    : baidu_searchForImage.py
 # @Software: PyCharm
 #---------------------------------------
 '''

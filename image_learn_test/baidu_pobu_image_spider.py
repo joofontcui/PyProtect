@@ -8,7 +8,6 @@
 
 import urllib2
 import re
-
 import requests
 
 baiduUrl='https://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&ie=gbk&word=%C4%D0%C8%CB&fr=ala&ori_query=%E7%94%B7%E4%BA%BA&ala=0&alatpl=sp&pos=0&hs=2&xthttps=111111'
