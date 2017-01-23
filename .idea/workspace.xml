@@ -2,156 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9baf3a-4914-41e1-ac26-dcb503f19c18" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/101.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/102.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/103.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/104.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/105.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/106.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/107.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/108.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/109.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/110.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/111.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/112.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/113.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/114.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/115.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/116.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/117.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/119.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/120.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/122.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/123.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/124.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/125.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/126.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/127.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/129.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/130.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/131.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/132.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/133.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/134.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/135.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/136.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/137.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/138.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/139.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/140.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/141.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/142.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/143.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/144.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/146.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/147.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/148.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/149.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/52.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/54.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/57.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/58.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/60.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/61.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/62.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/64.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/65.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/67.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/69.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/70.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/71.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/72.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/73.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/74.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/75.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/76.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/77.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/78.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/79.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/80.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/81.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/82.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/83.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/84.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/85.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/86.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/87.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/88.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/89.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/91.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/92.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/93.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/94.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/95.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/96.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/97.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/98.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image_learn_test/imagesForBaidu/99.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_dianping_data" afterPath="$PROJECT_DIR$/_dianping_data" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_python_zhihu" afterPath="$PROJECT_DIR$/_python_zhihu" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -177,7 +27,7 @@
     <SUITE FILE_PATH="coverage/PyProtect$python_zhihu.coverage" NAME="python_zhihu Coverage Results" MODIFIED="1484721630419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_zhihu" />
     <SUITE FILE_PATH="coverage/PyProtect$hello.coverage" NAME="hello Coverage Results" MODIFIED="1485070491701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhihu_live_spider" />
     <SUITE FILE_PATH="coverage/PyProtect$test_one.coverage" NAME="test_one Coverage Results" MODIFIED="1485086840304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_learn_test" />
-    <SUITE FILE_PATH="coverage/PyProtect$baidu_searchForImage.coverage" NAME="baidu_searchForImage Coverage Results" MODIFIED="1485143945035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_learn_test" />
+    <SUITE FILE_PATH="coverage/PyProtect$baidu_searchForImage.coverage" NAME="baidu_searchForImage Coverage Results" MODIFIED="1485158559929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_learn_test" />
     <SUITE FILE_PATH="coverage/PyProtect$bookspider.coverage" NAME="bookspider Coverage Results" MODIFIED="1484721940698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dianping_data/book_rank/book_rank/spiders" />
     <SUITE FILE_PATH="coverage/PyProtect$test_two.coverage" NAME="test_two Coverage Results" MODIFIED="1485139925706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_learn_test" />
   </component>
@@ -245,8 +95,8 @@
       <file leaf-file-name="baidu_searchForImage.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/image_learn_test/baidu_searchForImage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+            <state relative-caret-position="317">
+              <caret line="61" column="8" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
               <folding>
                 <element signature="e#284#295#0" expanded="true" />
               </folding>
@@ -304,10 +154,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="204" />
-    <option name="y" value="159" />
-    <option name="width" value="1719" />
-    <option name="height" value="921" />
+    <option name="x" value="-8" />
+    <option name="y" value="32" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -747,19 +597,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="204" y="159" width="1719" height="921" extended-state="0" />
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17299578" sideWeight="0.49346405" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14179105" sideWeight="0.49346405" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33053222" sideWeight="0.5050798" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289855" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32552084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29987293" sideWeight="0.49492016" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3177874" sideWeight="0.49492016" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29450262" sideWeight="0.38528138" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43167028" sideWeight="0.38528138" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16740367" sideWeight="0.50653595" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39929327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1130,8 +980,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/image_learn_test/baidu_searchForImage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        <state relative-caret-position="317">
+          <caret line="61" column="8" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
           <folding>
             <element signature="e#284#295#0" expanded="true" />
           </folding>
